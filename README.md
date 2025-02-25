@@ -1,2 +1,3 @@
 # Random-password-generator
-For generating random password
+Designed as a learning project for exploring JavaScript functionalities.
+CSS for styling.
